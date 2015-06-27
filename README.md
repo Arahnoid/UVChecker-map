@@ -30,6 +30,7 @@ Repozitory contains
 ![UVCheckerMap14_preview](UVCheckerMaps/UVCheckerMap14_preview.png)
 ![UVCheckerMap15_preview](UVCheckerMaps/UVCheckerMap15_preview.png)
 ![UVCheckerMap16_preview](UVCheckerMaps/UVCheckerMap16_preview.png)
+![UVCheckerMap17_preview](UVCheckerMaps/UVCheckerMap17_preview.png)
 
 
 - - -
